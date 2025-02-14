@@ -20,6 +20,10 @@ This project measures the distance to an object using an ultrasonic sensor and p
 
 ---
 
+![Project Setup](https://github.com/user-attachments/assets/086328ad-f213-4e65-87cb-d044114893e6)
+
+---
+
 ## Components Used
 - **Arduino Uno**: The main microcontroller.
 - **Ultrasonic Distance Sensor** (Trig: Pin 7, Echo: Pin 6): Measures the distance to an object.
@@ -69,6 +73,10 @@ Based on the distance:
 | LED             | 13  |
 | LCD SDA          | A4  |
 | LCD SCL          | A5  |
+
+---
+
+![Wiring Diagram](https://github.com/user-attachments/assets/84a239c0-2bb3-4940-b0e6-3f97a3c3abe2)
 
 ---
 
